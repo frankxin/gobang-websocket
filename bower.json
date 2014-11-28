@@ -1,0 +1,17 @@
+{
+  "name": "gobang",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "main" : "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
